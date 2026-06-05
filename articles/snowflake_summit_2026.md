@@ -4,7 +4,7 @@ emoji: "❄️"
 type: "tech"
 topics: ["snowflake", "ai", "dataengineering", "mcp", "security"]
 publication_name: "mbk_digital"
-published: true
+published: false
 ---
 
 # はじめに
