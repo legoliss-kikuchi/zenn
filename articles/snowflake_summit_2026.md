@@ -11,7 +11,7 @@ published: false
 
 Snowflake Summit 2026 では、Agentic Enterprise、Snowflake Intelligence、Cortex Agents、MCP、AI Security など、AI エージェント時代に向けた発表が多くありました。
 
-その中で、参考になったのが **Toyota Motor Europeのデータプラットフォーム戦略** です。
+その中で、非常に参考になったのが公式セッションで発表された **Toyota Motor Europeのデータプラットフォーム戦略** です。
 
 ![Toyota Motor Europe データプラットフォーム戦略の概要](/images/IMG_3898.jpg)
 *Toyota Motor Europe のデータプラットフォーム戦略の全体像*
@@ -346,3 +346,5 @@ Snowflake Summit 2026 では、Agentic Enterprise、Snowflake Intelligence、Cor
 
 ![Snowflake Summit 2026](/images/snowflake.jpg)
 *Snowflake Summit 2026*
+
+※本記事は、Snowflake Summit 2026の公開セッション内容に基づき、執筆者個人の見解・考察をまとめたものです。対象企業および所属組織の公式な見解を示すものではありません。
