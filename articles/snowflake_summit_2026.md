@@ -3,6 +3,7 @@ title: "Snowflake Summit 2026 の Toyota 事例は「AI-ready data の作り方�
 emoji: "❄️"
 type: "tech"
 topics: ["snowflake", "ai", "dataengineering", "mcp", "security"]
+publication_name: "mbk_digital"
 published: true
 ---
 
